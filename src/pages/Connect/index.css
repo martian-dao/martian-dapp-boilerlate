@@ -1,0 +1,22 @@
+.connect {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.connect-btn {
+    background-color: black;
+    color: white;
+    font-style: bold;
+    height: 7vh;
+    width: 10em;
+}
+
+.connect-btn:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+    font-style: bold;
+    height: 7vh;
+    width: 10em;
+}

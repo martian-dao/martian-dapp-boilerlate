@@ -1,0 +1,17 @@
+.home {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.home-form {
+    margin-top: 80px;
+    margin-right: 10px;
+}
+.address {
+    text-align: center;
+}
+.hash {
+    text-align: center;
+}
